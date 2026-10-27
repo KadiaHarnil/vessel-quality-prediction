@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset
+faults.csv
+
+# Trained machine learning models
+*.pkl
+*.joblib
+
+# Kaggle output
+kaggle/working/
